@@ -1,3 +1,3 @@
 # Elite-Footballers-Following-Pattern
 
-I just wanted to find out what an elite-footballer "consumes", maybe this can explain why they are elite and others aren't
+I just wanted to find out what an elite-footballer "consumes" on Instagram. This could maybe explain why they are elite and while others aren't.
