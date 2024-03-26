@@ -1,0 +1,11 @@
+an idea of how the GUI (Graphical User Interface) should look like
+
+Home/First Page
+1. a list of elite ballers to search for (linking with sofifa, https://sofifa.com/)
+2. also linking with Transfermarkt (https://www.transfermarkt.com/), from the player's Transfermarkt-Site you can often see their Instagram
+3. Instagram API to directly search for the player's Instagram
+
+4. enter Instagram-URL of the Instagram-Profile into a bracket that should be analyzed
+
+5. programm will scrape the data and also make an .xslx-file available
+6. scraped following-list analysis will be done by AI
