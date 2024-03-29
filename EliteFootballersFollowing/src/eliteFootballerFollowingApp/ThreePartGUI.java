@@ -18,22 +18,22 @@ public class ThreePartGUI {
         // Top Panel
         JPanel topPanel = new JPanel();
         topPanel.setBackground(Color.LIGHT_GRAY);
-        topPanel.add(new JLabel("Top Panel"));
+        topPanel.add(new JLabel("Insta-URL that will be scraped"));
         frame.add(topPanel, BorderLayout.NORTH);
 
         // Middle Panel
         JSplitPane middlePanel = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT);
-        middlePanel.setLeftComponent(createInnerPanel("Left Middle"));
-        middlePanel.setRightComponent(createInnerPanel("Right Middle"));
-        middlePanel.setDividerLocation(350);
+        middlePanel.setLeftComponent(createInnerPanel("Transfermarkt"));
+        middlePanel.setRightComponent(createInnerPanel("SOFIFA"));
+        middlePanel.setDividerLocation(390);
 
         frame.add(middlePanel, BorderLayout.CENTER);
 
         // Bottom Panel
         JPanel bottomPanel = new JPanel();
-        bottomPanel.setBackground(Color.DARK_GRAY);
-        bottomPanel.add(new JLabel("Bottom Panel"));
-        bottomPanel.setPreferredSize(new Dimension(frame.getWidth(), 100));
+        bottomPanel.setBackground(Color.LIGHT_GRAY);
+        bottomPanel.add(new JLabel("Instagram"));
+        bottomPanel.setPreferredSize(new Dimension(frame.getWidth(), 200));
         frame.add(bottomPanel, BorderLayout.SOUTH);
 
         // Set the frame size and make it visible
