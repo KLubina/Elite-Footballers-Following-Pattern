@@ -1,0 +1,158 @@
+<mxfile host="Electron" modified="2024-03-30T19:59:00.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="8o-u729dd9RUy-icx_hZ" version="22.0.2" type="device">
+  <diagram name="Seite-1" id="Jh8NYCu6BFXvdoida8x_">
+    <mxGraphModel dx="435" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GM74fhtAsbJQgwXiB_rK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-1" value="Go to the players Insta-Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GM74fhtAsbJQgwXiB_rK-3" target="GM74fhtAsbJQgwXiB_rK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-3" value="Click on his Following" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-4" value="Second Approach" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-5" value="First Approach" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM74fhtAsbJQgwXiB_rK-6" target="GM74fhtAsbJQgwXiB_rK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-6" value="Mark the followings and drag down until the last one" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-8" value="Copy (ctrl + c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GM74fhtAsbJQgwXiB_rK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-11" value="Go to the players Insta-Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GM74fhtAsbJQgwXiB_rK-13" target="GM74fhtAsbJQgwXiB_rK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-13" value="Inspect Page (Q)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GM74fhtAsbJQgwXiB_rK-15" target="GM74fhtAsbJQgwXiB_rK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-15" value="Search in the section the HTML-Source of Instagram where the followings are listed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-16" value="Copy (ctrl + c)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-18" value="Paste (ctrl + v) into Excel with adaption to Excel-Format" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-20" value="Paste (ctrl + v) into Excel with adaption to Excel-Format" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-26" value="Paste into Chat-GPT with command to get a clear list, maximally paste around 500 fields at once" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="740" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-28" value="Paste into Chat-GPT with command to get a clear list, maximally paste around 500 fields at once" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-30" value="Copy (ctrl + c) the improved list from Chat-GPT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-32" value="Copy (ctrl + c) the improved list from Chat-GPT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="1000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-34" value="Paste (ctrl + v) into Excel again but now in another column" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-36" value="Paste (ctrl + v) into Excel again but now in another column" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-38" value="Decide about values (f.e. here if the person followed is M/F)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-40" value="Decide about values (f.e. here if the person followed is M/F)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-42" value="Copy (ctrl + c) the formatted list from Excel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GM74fhtAsbJQgwXiB_rK-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GM74fhtAsbJQgwXiB_rK-44" value="Copy (ctrl + c) the formatted list from Excel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
