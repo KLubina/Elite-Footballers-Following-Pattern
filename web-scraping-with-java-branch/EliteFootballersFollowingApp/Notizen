@@ -1,0 +1,8 @@
+I write here notes about the problems I encountered while working at this project
+
+runs on java 17, everything over 17 -> error (Properties -> Java Compiler -> choose version)
+
+but also runs on 1.8
+
+to build path
+-> project explorer, right-click on the file that their path should be build -> choose build path -> configure path -> right at the bottom you can chose where the path should go -> apply and close

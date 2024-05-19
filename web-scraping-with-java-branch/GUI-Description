@@ -1,0 +1,23 @@
+an idea of how the GUI (Graphical User Interface) should look like
+
+Home/First Page
+1. Instagram API to directly search for the player's Instagram
+1.2. a list of elite ballers to search for (linking with sofifa, https://sofifa.com/)
+1.2. also linking with Transfermarkt (https://www.transfermarkt.com/), from the player's Transfermarkt-Site you can often see their Instagram
+
+2. enter Instagram-URL of the Instagram-Profile into a bracket that should be analyzed
+
+3. programm will automatically scrape the data and also make an seperate .xlsx-file available for further use
+
+4. an analysis of scraped following-list will be done by an AI (if you want to)
+
+Real Life Example
+
+1.2. https://sofifa.com/player/218667/bernardo-mota-carvalho-e-silva/240033/
+1.2. https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641
+
+2. https://www.instagram.com/bernardocarvalhosilva/
+
+3. bernardocarvalhosilva_InstagramFollowing.xlsx
+
+4. bernardocarvalhosilva Follwing consists 30% out from other professional footballers...
