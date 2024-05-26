@@ -1,0 +1,11 @@
+Two different approaches of how I scraped data from the Instagram-pages (documented them as screenshots)
+
+First Approach) Inspect Instagram-Website -> Accesbility -> Copy the username list
+Second Approach) Manually copy the following users by the list
+-> all collected usernames get pasted into Excel
+
+Command into Chat-GPT: transform this list into a list like this: username (Real Name)
+
+Paste the results into Excel again
+
+Manually decide if F/M by name
