@@ -1,19 +1,25 @@
-# Load the ggplot2 library
+# Load necessary libraries
 library(ggplot2)
+library(dplyr)
 
-# Data for the Average Guy's following gender distribution
-data_average_guy <- data.frame(
+# Create a data frame
+data <- data.frame(
   Gender = c("Male", "Female"),
-  Count = c(53, 47)
+  Percentage = c(88, 12)
 )
 
-# Create the pie chart
-ggplot(data_average_guy, aes(x = "", y = Count, fill = Gender)) +
-  geom_bar(stat = "identity", width = 1) +
-  coord_polar("y", start = 0) +
-  theme_void() +
-  scale_fill_manual(values = c("#0073C2FF", "#EFC000FF")) + # Colors blue and orange
-  labs(title = "REPRESENTATIVE/AVERAGE GUY FOLLOWING GENDER (20.02.2024)")
+# Add labels with percentages
+data <- data %>%
+  mutate(label = paste0(Percentage, "%"))
 
-# Save the pie chart to a file
-ggsave("average_guy_pie_chart.png", plot = last_plot(), width = 10, height = 8, units = "in")
+# Create the pie chart
+ggplot(data, aes(x = "", y = Percentage, fill = Gender)) +
+  geom_bar(width = 1, stat = "identity") +
+  coord_polar("y", start = 0) +
+  geom_text(aes(label = label), position = position_stack(vjust = 0.5)) +
+  labs(title = "CLARENCE SEEDORF FOLLOWING GENDER\n(17.02.2024)") +
+  theme_void() +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 16)
+  ) +
+  scale_fill_manual(values = c("Male" = "#0073C2FF", "Female" = "#EFC000FF"))
